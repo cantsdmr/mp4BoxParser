@@ -149,7 +149,7 @@ function App() {
 
       <section className='App-detail'>
         <p>
-          Please click to below button to analyze the file. You can track all steps in the browser console and here.
+          Please click on below button to analyze the file. You can track all steps in the browser console and here.
         </p>
         <button
           onClick={() => startAnalyzing()}
